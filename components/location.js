@@ -106,6 +106,7 @@ export default class location extends Component {
     return (
       <View styles={styles.container}>
         <Button title="Nustatyti vieta" onPress={this.requestLocation} />
+        {}
         <View style={styles.resultsContainer}>
           <Text style={styles.cityCountry}>
             {this.state.city} {this.state.country}

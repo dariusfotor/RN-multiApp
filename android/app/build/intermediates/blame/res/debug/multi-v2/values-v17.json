@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/values-v17/values-v17.xml",
