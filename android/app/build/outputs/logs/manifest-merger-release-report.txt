@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/darius/.gradle/caches/transforms-2/files-2.1/74bccc260299afba43cb0bde3f13977d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/darius/.gradle/caches/transforms-2/files-2.1/eb5f5a6d5d423b8081e6ea21ceab350b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7c77e85ae6a5052610a1ee0b6acfb2cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f0cf346f7466c35c3b862f06dc35ab5a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2499fc370d5930ded4575fe0ec3eb6ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/88e6ef041c8c359fce12fd337329d5bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3035e72772a0755feeac771f0ec31cda/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/178b403ed3ff39bd3388f9f586bf6a70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6307ca92cc4be342128680638191f3f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7cd77a768f80a5058cda52a817f98ebe/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3951465cb6ddae85da51db59a15a2c5f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/d7b7549c00653f0945a9009dc8861a0c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f0a5b94ed02faf7f5086998254df4ba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1bd0bd323e7af305563f87635148565a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/92082ac202cf6e6e95b3c8a14b34fa3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3772501f39d73d5f664dd8236d06630a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7799296d57d96326d00833f2d10d7274/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1826de62b10ef4b6378767b5f8dbdbf6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/5543a437c71a9462f2cc454f944fdc82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/52051dab0f245bb1f12d93f6fc4c0f43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/e4a23d8d859259a9c2bc72e47adac9c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6e8c298ef7d10a9962b5f72c7033567/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/138947dbc5de2e6ea18a2423de57a4c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2308346d3b189a47707c2514264112b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/ae265f0d357386eb2c62e621ed6d0f5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1900eaf67b944e887ab1ead900d36485/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0140bcb54053c0689001dc3f8a23ca6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/9d4349f49df7a66bdcd3f2a1644f3e56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0160b600ceaf0f8d451361f052eecf2a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/edc8351c959b92a26647495159c8926b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/56deac968eecaa4ccf7cabb425f8bcea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f75730c4368dc5a69f7747a92e40cfe0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/62f6478499bf8222ddcd85bb61e10337/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/dc8d8812635fb856b873f67ca0b4f3f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/b5ccdf571370383bd32edd2153a63b9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/69e88911397b36e71ce1ad2a540c9568/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f5e357d7aea70a2d9abd45900f13258/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6b220d5fb2d79275345fc94b99c947e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/07cb587cc3957f92cbfea713451bb7c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/75a362682ce31e3ce2dda0d7c0225b78/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:5:1-75
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:5:18-72
+application
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/darius/.gradle/caches/transforms-2/files-2.1/74bccc260299afba43cb0bde3f13977d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/darius/.gradle/caches/transforms-2/files-2.1/74bccc260299afba43cb0bde3f13977d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7cd77a768f80a5058cda52a817f98ebe/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7cd77a768f80a5058cda52a817f98ebe/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3951465cb6ddae85da51db59a15a2c5f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3951465cb6ddae85da51db59a15a2c5f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/d7b7549c00653f0945a9009dc8861a0c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/d7b7549c00653f0945a9009dc8861a0c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f0a5b94ed02faf7f5086998254df4ba/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f0a5b94ed02faf7f5086998254df4ba/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0160b600ceaf0f8d451361f052eecf2a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0160b600ceaf0f8d451361f052eecf2a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.curr.MainActivity
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/darius/.gradle/caches/transforms-2/files-2.1/74bccc260299afba43cb0bde3f13977d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/darius/.gradle/caches/transforms-2/files-2.1/74bccc260299afba43cb0bde3f13977d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/darius/.gradle/caches/transforms-2/files-2.1/eb5f5a6d5d423b8081e6ea21ceab350b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/darius/.gradle/caches/transforms-2/files-2.1/eb5f5a6d5d423b8081e6ea21ceab350b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7c77e85ae6a5052610a1ee0b6acfb2cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7c77e85ae6a5052610a1ee0b6acfb2cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f0cf346f7466c35c3b862f06dc35ab5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f0cf346f7466c35c3b862f06dc35ab5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2499fc370d5930ded4575fe0ec3eb6ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2499fc370d5930ded4575fe0ec3eb6ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/88e6ef041c8c359fce12fd337329d5bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/88e6ef041c8c359fce12fd337329d5bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3035e72772a0755feeac771f0ec31cda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3035e72772a0755feeac771f0ec31cda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/178b403ed3ff39bd3388f9f586bf6a70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/178b403ed3ff39bd3388f9f586bf6a70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6307ca92cc4be342128680638191f3f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6307ca92cc4be342128680638191f3f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7cd77a768f80a5058cda52a817f98ebe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7cd77a768f80a5058cda52a817f98ebe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3951465cb6ddae85da51db59a15a2c5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3951465cb6ddae85da51db59a15a2c5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/d7b7549c00653f0945a9009dc8861a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/d7b7549c00653f0945a9009dc8861a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f0a5b94ed02faf7f5086998254df4ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f0a5b94ed02faf7f5086998254df4ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1bd0bd323e7af305563f87635148565a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1bd0bd323e7af305563f87635148565a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/92082ac202cf6e6e95b3c8a14b34fa3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/92082ac202cf6e6e95b3c8a14b34fa3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3772501f39d73d5f664dd8236d06630a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/3772501f39d73d5f664dd8236d06630a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7799296d57d96326d00833f2d10d7274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/7799296d57d96326d00833f2d10d7274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1826de62b10ef4b6378767b5f8dbdbf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1826de62b10ef4b6378767b5f8dbdbf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/5543a437c71a9462f2cc454f944fdc82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/5543a437c71a9462f2cc454f944fdc82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/52051dab0f245bb1f12d93f6fc4c0f43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/52051dab0f245bb1f12d93f6fc4c0f43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/e4a23d8d859259a9c2bc72e47adac9c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/e4a23d8d859259a9c2bc72e47adac9c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6e8c298ef7d10a9962b5f72c7033567/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6e8c298ef7d10a9962b5f72c7033567/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/138947dbc5de2e6ea18a2423de57a4c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/138947dbc5de2e6ea18a2423de57a4c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2308346d3b189a47707c2514264112b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/2308346d3b189a47707c2514264112b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/ae265f0d357386eb2c62e621ed6d0f5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/ae265f0d357386eb2c62e621ed6d0f5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1900eaf67b944e887ab1ead900d36485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/1900eaf67b944e887ab1ead900d36485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0140bcb54053c0689001dc3f8a23ca6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0140bcb54053c0689001dc3f8a23ca6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/9d4349f49df7a66bdcd3f2a1644f3e56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/9d4349f49df7a66bdcd3f2a1644f3e56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0160b600ceaf0f8d451361f052eecf2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/0160b600ceaf0f8d451361f052eecf2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/edc8351c959b92a26647495159c8926b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/edc8351c959b92a26647495159c8926b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/56deac968eecaa4ccf7cabb425f8bcea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/56deac968eecaa4ccf7cabb425f8bcea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f75730c4368dc5a69f7747a92e40cfe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/f75730c4368dc5a69f7747a92e40cfe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/62f6478499bf8222ddcd85bb61e10337/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/62f6478499bf8222ddcd85bb61e10337/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/dc8d8812635fb856b873f67ca0b4f3f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/dc8d8812635fb856b873f67ca0b4f3f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/b5ccdf571370383bd32edd2153a63b9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/b5ccdf571370383bd32edd2153a63b9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/69e88911397b36e71ce1ad2a540c9568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/69e88911397b36e71ce1ad2a540c9568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f5e357d7aea70a2d9abd45900f13258/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/6f5e357d7aea70a2d9abd45900f13258/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6b220d5fb2d79275345fc94b99c947e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/a6b220d5fb2d79275345fc94b99c947e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/07cb587cc3957f92cbfea713451bb7c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/07cb587cc3957f92cbfea713451bb7c2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/75a362682ce31e3ce2dda0d7c0225b78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/darius/.gradle/caches/transforms-2/files-2.1/75a362682ce31e3ce2dda0d7c0225b78/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/darius/Downloads/RN-currencyConverter-calculator-weatherForecast-master/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/AndroidManifest.xml:24:13-58
