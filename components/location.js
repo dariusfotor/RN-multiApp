@@ -1,15 +1,16 @@
 import React, { Component } from "react";
-import { StyleSheet, View, Text, Button } from "react-native";
+import { StyleSheet, View, ScrollView, Text, Button } from "react-native";
 import Geolocation from "react-native-geolocation-service";
 import { PermissionsAndroid } from "react-native";
 import axios from "axios";
+import MapView from "react-native-maps";
 
 export default class location extends Component {
   constructor() {
     super();
     this.state = {
-      lat: "",
-      long: "",
+      lat: 27,
+      long: 67,
       city: "",
       country: "",
       temp: "",
@@ -65,7 +66,7 @@ export default class location extends Component {
   requestLocation = async () => {
     const latitude = this.state.lat;
     const longitude = this.state.long;
-    console.log(latitude);
+    console.log(latitude, longitude);
     const response = await axios
       .get(
         `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&APPID=dcd7897dae0a3a3e3b5903fff33b33ec`
@@ -103,8 +104,10 @@ export default class location extends Component {
   };
 
   render() {
+    const latitude = this.state.lat;
+    const longitude = this.state.long;
     return (
-      <View styles={styles.container}>
+      <ScrollView styles={styles.container}>
         <Button title="Nustatyti vieta" onPress={this.requestLocation} />
         {}
         <View style={styles.resultsContainer}>
@@ -119,7 +122,19 @@ export default class location extends Component {
           <Text style={styles.resultsTxt}>{this.state.sunriseTime}</Text>
           <Text style={styles.resultsTxt}>{this.state.sunsetTime}</Text>
         </View>
-      </View>
+
+        <View style={styles.containerMap}>
+          <MapView
+            style={styles.map}
+            region={{
+              latitude: latitude,
+              longitude: longitude,
+              latitudeDelta: 0.015,
+              longitudeDelta: 0.0121
+            }}
+          />
+        </View>
+      </ScrollView>
     );
   }
 }
@@ -127,6 +142,15 @@ export default class location extends Component {
 const styles = StyleSheet.create({
   container: {
     borderStartColor: "blue"
+  },
+  containerMap: {
+    height: 300,
+    width: 450,
+    justifyContent: "flex-end",
+    alignItems: "center"
+  },
+  map: {
+    ...StyleSheet.absoluteFillObject
   },
   resultsContainer: {
     backgroundColor: "#557A95",

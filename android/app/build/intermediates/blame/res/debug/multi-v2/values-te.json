@@ -4,6 +4,23 @@
             "outputFile": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
+                    "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ea523c28f4eb4da2a2b57f4663469151/res/values-te/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3998",
+                        "endColumns": "198",
+                        "endOffsets": "4192"
+                    }
+                },
+                {
                     "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/values-te/values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/values-te/values.xml",
+                    "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/values-te/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,23 +69,6 @@
                         "startOffsets": "5623",
                         "endColumns": "100",
                         "endOffsets": "5719"
-                    }
-                },
-                {
-                    "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/9eb9c78208cec05458107edda135c658/res/values-te/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3998",
-                        "endColumns": "198",
-                        "endOffsets": "4192"
                     }
                 }
             ]

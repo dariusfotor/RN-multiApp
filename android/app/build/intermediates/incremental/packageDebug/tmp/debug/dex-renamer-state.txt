@@ -1,4 +1,4 @@
-#Wed Nov 20 14:32:03 EET 2019
+#Wed Nov 20 16:40:25 EET 2019
 base.0=/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

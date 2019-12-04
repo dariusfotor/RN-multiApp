@@ -18,6 +18,8 @@ import com.curr.R;
 import com.agontuk.RNFusedLocation.RNFusedLocationPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-maps
+import com.airbnb.android.react.maps.MapsPackage;
 
 public class PackageList {
   private Application application;
@@ -64,7 +66,8 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new RNFusedLocationPackage(),
-      new RNGestureHandlerPackage()
+      new RNGestureHandlerPackage(),
+      new MapsPackage()
     ));
   }
 }

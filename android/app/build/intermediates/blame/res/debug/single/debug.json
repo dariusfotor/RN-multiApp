@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_multiple_placemarks.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -12,8 +16,12 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_nested_folders.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_nested_folders.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -22,6 +30,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_multigeometry_placemarks.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -33,7 +45,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
@@ -42,6 +54,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_basic_folder.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_basic_folder.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
@@ -109,7 +125,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -117,7 +133,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -141,7 +157,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -177,7 +193,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -257,7 +273,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -285,7 +301,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
@@ -304,6 +320,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_unknwown_folder.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_unknwown_folder.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/color-v21/abc_btn_colored_borderless_text_material.xml"
     },
@@ -314,6 +334,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_default_balloon.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_default_balloon.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -334,6 +358,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_visibility_ground_overlay.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
@@ -404,12 +432,20 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_amu_webview.xml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/layout/amu_webview.xml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/drawable-xxhdpi-v4/amu_bubble_shadow.9.png"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
@@ -452,6 +488,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/layout/abc_search_view.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_ground_overlay_color.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_ground_overlay_color.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
@@ -465,7 +505,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
@@ -481,7 +521,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_list_divider_material.xml.flat",
@@ -496,12 +536,20 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_unsupported.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_unsupported.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/drawable-xhdpi-v4/amu_bubble_shadow.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -514,6 +562,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_amu_info_window.xml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/layout/amu_info_window.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -581,7 +633,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -641,7 +693,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -662,6 +714,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_ground_overlay.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_ground_overlay.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -740,6 +796,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_amu_text_bubble.xml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/layout/amu_text_bubble.xml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -758,6 +818,10 @@
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_basic_placemark.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_basic_placemark.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -792,6 +856,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/46f24632f7e94cef9bb339bf9e0701a6/res/anim/catalyst_push_up_out.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_poly_style_boolean_alpha.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
@@ -820,6 +888,14 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_document_nest.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_document_nest.kml"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_inline_style.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_inline_style.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/color/abc_tint_default.xml"
     },
@@ -844,12 +920,16 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_extended_data.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_extended_data.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -861,7 +941,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -900,6 +980,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/46f24632f7e94cef9bb339bf9e0701a6/res/anim/catalyst_slide_up.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_cdata.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_cdata.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
@@ -917,7 +1001,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -929,7 +1013,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
@@ -1036,6 +1120,10 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/drawable-xxhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/9d4349f49df7a66bdcd3f2a1644f3e56/res/layout/notification_media_action.xml"
     },
@@ -1068,8 +1156,12 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/drawable/notification_bg_low.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_ballon_gx_prefix.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1077,11 +1169,11 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
@@ -1097,7 +1189,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1117,7 +1209,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1165,7 +1257,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -1177,11 +1269,11 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1189,7 +1281,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1249,7 +1341,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
@@ -1345,7 +1437,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -1373,7 +1465,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1429,7 +1521,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1473,7 +1565,11 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_poly_style_boolean_numeric.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
@@ -1516,12 +1612,24 @@
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/900c65ffbe0842a10870e3794775fe3b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_draw_order_ground_overlay.kml"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/drawable-xhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/a055e318db044b2a84e4758f992daba2/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/raw_amu_nested_multigeometry.kml.flat",
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/61fdc138c53c760b1bfddfdf95d44392/res/raw/amu_nested_multigeometry.kml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -1545,7 +1653,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
@@ -1561,7 +1669,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1569,7 +1677,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1613,7 +1721,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1653,7 +1761,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1669,7 +1777,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1725,7 +1833,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1741,7 +1849,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
@@ -1757,7 +1865,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1789,7 +1897,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
@@ -1801,7 +1909,7 @@
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/0b62acd3bd6cfbe0ddd3a9f9714b2b4d/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/Users/darius/.gradle/caches/transforms-2/files-2.1/ed188c99b5508ca1699ec4e2e262c9ab/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/darius/Desktop/Projects/RN-currencyConverter-calculator-weatherForecast-master/RN-multiApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
